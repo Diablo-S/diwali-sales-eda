@@ -1,1 +1,1 @@
-# diwali-sales-eda
+# Diwali_Sales_Analysis (EDA)
